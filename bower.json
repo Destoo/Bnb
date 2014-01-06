@@ -1,0 +1,23 @@
+{
+  "name": "Bnb",
+  "version": "1.0",
+  "homepage": "https://github.com/Destoo/Bnb",
+  "authors": [
+    "kjvenky"
+  ],
+  "description": "Balls and basekts code.",
+  "main": "htmls/index.html",
+  "keywords": [
+    "Productivity",
+    "Desto"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
